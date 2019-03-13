@@ -1,0 +1,26 @@
+# 180º
+http://api.rtve.es/api/programas/22270/audios.rss
+
+# Hoy empieza todo
+http://api.rtve.es/api/programas/59010/audios.rss
+
+# Nadie sabe nada
+http://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml
+
+# Oh my lol! La vida moderna
+https://recursosweb.prisaradio.com/podcasts/571.xml
+
+# Turbo 3
+http://api.rtve.es/api/programas/60890/audios.rss
+
+# Na na na
+http://api.rtve.es/api/programas/77850/audios.rss
+
+# Top Gus extra
+http://www.rtve.es/api/programas/115370/audios.rss
+
+# Siglo 21
+http://www.rtve.es/api/programas/2082/audios.rss
+
+# Aquí hay dragones
+http://fapi-top.prisasd.com/podcast/podium/aqui_hay_dragones.xml

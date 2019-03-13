@@ -1,0 +1,5 @@
+# Add on startup applications
+
+copyq toggle
+
+# enpass ¿?

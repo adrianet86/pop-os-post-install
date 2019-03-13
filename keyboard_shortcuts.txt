@@ -1,0 +1,7 @@
+# Keyboard Shortcuts
+
+copyq toggle      special + v
+
+terminator        special + t
+
+synapse           ctrl + space
