@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Postman
-Exec=postman
+Exec=/home/adria/software/Postman/Postman
 Icon=/home/adria/software/Postman/app/resources/app/assets/icon.png
 Terminal=false
 Type=Application
