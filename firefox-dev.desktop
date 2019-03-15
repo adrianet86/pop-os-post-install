@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Firefox Dev
+Exec=/home/adria/software/firefox-dev/firefox
+Icon=/home/adria/software/firefox-dev/browser/chrome/icons/default/default128.png
+Terminal=false
+Type=Application
+Categories=Internet
