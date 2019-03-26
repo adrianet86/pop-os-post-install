@@ -124,5 +124,11 @@ apt-get install enpass
 # https://www.jetbrains.com/phpstorm/download/#section=linux
 # wget https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=linux
 
+# Elastic Search memory problem on docker containers
+# https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html
+
+# PhpStorm memory problems
+# https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit
+
 sudo apt autoremove
 sudo apt autoclean
