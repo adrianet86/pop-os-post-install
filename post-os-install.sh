@@ -21,6 +21,8 @@ sudo apt install chrome-gnome-shell
 # https://extensions.gnome.org/extension/307/dash-to-dock/
 # https://extensions.gnome.org/extension/55/media-player-indicator/
 # https://extensions.gnome.org/extension/751/audio-output-switcher/
+# https://extensions.gnome.org/extension/1065/docker-status/
+# https://extensions.gnome.org/extension/442/drop-down-terminal/
 
 # Synapse launcher
 sudo apt install synapse
