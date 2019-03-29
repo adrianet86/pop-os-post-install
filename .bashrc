@@ -6,7 +6,7 @@ alias ll='ls -la'
 composer() {
   eval instruction="$1"
   path=$(pwd)
-  docker run --rm -it -v $folder:/app --workdir=/app composer composer $instruction
+  docker run --rm -it -v $path:/app --workdir=/app composer composer $instruction
 }
 
 php73() {
