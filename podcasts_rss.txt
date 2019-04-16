@@ -24,3 +24,6 @@ http://www.rtve.es/api/programas/2082/audios.rss
 
 # Aquí hay dragones
 http://fapi-top.prisasd.com/podcast/podium/aqui_hay_dragones.xml
+
+# Todopoderosos
+http://todopoderosos.net/rss
