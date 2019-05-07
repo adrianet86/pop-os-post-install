@@ -1,17 +1,17 @@
 # Aliases
 alias ll='ls -la'
 
+alias composer='docker run --rm -it -v $PWD:/app --workdir=/app composer composer'
+
+alias phpstan='docker run -v $PWD:/app --rm phpstan/phpstan'
+
+alias php73='docker run --rm -ti -v $PWD:/app -w /app php:7-fpm-alpine php'
 
 # Function example
-composer() {
-  eval instruction="$1"
-  path=$(pwd)
-  docker run --rm -it -v $path:/app --workdir=/app composer composer $instruction
+docker_rm() {
+  docker rm $(docker ps -a -q)
 }
 
-php73() {
-  eval instruction="$1"
-  path=$(pwd)
-
-  docker run --rm -ti -v $path:/app -w /app php:7-fpm-alpine php $instruction
+docker_rmi() {
+  docker images | grep "<none>" | awk '{ print "docker rmi " $3 }' | bash
 }
