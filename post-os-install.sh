@@ -95,6 +95,11 @@ wget -O - https://apt.enpass.io/keys/enpass-linux.key | apt-key add -
 apt-get update
 apt-get install enpass
 
+# Docker dive tool - https://github.com/wagoodman/dive
+wget https://github.com/wagoodman/dive/releases/download/v0.7.2/dive_0.7.2_linux_amd64.deb
+sudo apt install ./dive_0.7.2_linux_amd64.deb
+sudo rm dive_0.7.2_linux_amd64.deb
+
 # VirtualBox
 ## 1. downloading package
 #wget http://download.virtualbox.org/virtualbox/5.1.6/VirtualBox-5.1.6-110634-Linux_amd64.run
