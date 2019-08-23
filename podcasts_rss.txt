@@ -27,3 +27,9 @@ http://fapi-top.prisasd.com/podcast/podium/aqui_hay_dragones.xml
 
 # Todopoderosos
 http://todopoderosos.net/rss
+
+# Programar es una mierda
+https://www.ivoox.com/podcast-programar-es-mierda_fg_f1432444_filtro_1.xml
+
+# Web reactiva
+https://www.danielprimo.io/podcast/feed.xml
